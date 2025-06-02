@@ -5,7 +5,7 @@ class baseClass{
     public:  
     virtual void perkenalan()
     { 
-        cout << "halo saya function dari base class"; 
+        cout << " halo saya function dari base class "; 
     } 
 }; 
  
