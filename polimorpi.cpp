@@ -3,7 +3,7 @@ using namespace std;
  
 class seseorang
 { 
-public:  
+public:
     //virtual void pesan() = 0; 
     virtual vaid pesan()
     { 
