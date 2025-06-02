@@ -11,7 +11,8 @@ class baseClass{
  
 class derivedClass : public baseClass{ 
     public: 
-    void perkenalan(){ 
+    void perkenalan()
+    { 
         cout << "halo saya function dari drived class"; 
     } 
 }; 
