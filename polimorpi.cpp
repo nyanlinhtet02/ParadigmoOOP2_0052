@@ -7,7 +7,7 @@ public:
     //virtual void pesan() = 0; 
     virtual vaid pesan()
     { 
-         cout<<"pesan dari seseorang "<< endl; 
+         cout<<"pesan dari seseorang "<< endl;
     } 
 }; 
  
